@@ -55,15 +55,6 @@ Describe the testing strategies that will be used to ensure the design meets req
 - **Integration Testing:** Outline how components will be tested together.
 - **Performance Testing:** Specify the performance benchmarks and testing methods.
 
-## Revision History
-Use a table to keep track of changes made to the document.
-- `>YYYY-MM-DD` - Version 1.0
-	- @mention: Initial draft created.
-- `>YYYY-MM-DD` - Version 1.1 
-	- @mention: Updated component details.
-
-## Comments and Discussions
-Use @mentions and tasks to facilitate discussions and feedback on specific sections of the document.
 
 - [ ] @mention (Request feedback from a specific team member)
 - [ ] Discuss integration points and potential issues.
